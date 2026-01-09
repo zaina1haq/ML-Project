@@ -1,0 +1,25 @@
+0
+admission_type_Emergency
+admission_type_Other
+admission_type_Trauma Center
+admission_type_Urgent
+diabetesMed_Yes
+diag_1_Diabetes
+diag_1_Digestive
+diag_1_Genitourinary
+diag_1_Injury
+diag_1_Musculoskeletal
+diag_1_Neoplasms
+diag_1_Other
+diag_1_Respiratory
+diag_1_Unknown
+discharge_disposition_Discharged to home with home health service
+discharge_disposition_Discharged/transferred to another type of care
+discharge_disposition_Other
+discharge_disposition_Transferred to another short-term hospital
+discharge_disposition_Transferred to skilled nursing facility
+gender_Male
+race_Asian
+race_Caucasian
+race_Hispanic
+race_Other
