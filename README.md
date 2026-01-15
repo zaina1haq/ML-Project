@@ -76,5 +76,5 @@ For detailed methodology and analysis, see the notebooks in this repository.
 
 ## 👥 Authors
 
-- **Zina Abdalhaq**
-- **Zina Dawod**
+- **Zaina Abdalhaq**
+- **Zaina Dawod**
